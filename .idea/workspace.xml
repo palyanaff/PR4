@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00c3f8bd-07ee-4899-8943-bb1cfeb46ea9" name="Changes" comment="Выполнение Практики 4">
-      <change afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="00c3f8bd-07ee-4899-8943-bb1cfeb46ea9" name="Changes" comment="Добавление .gitlab-ci.yml">
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776355206284</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавление .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1776358324892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776358324893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнение Практики 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнение Практики 4" />
+    <MESSAGE value="Добавление .gitlab-ci.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление .gitlab-ci.yml" />
   </component>
 </project>
